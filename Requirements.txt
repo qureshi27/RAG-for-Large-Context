@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+chromadb
+openai
+mistralai
+redis
+pdfplumber
+PyMuPDF
+unstructured
+spacy
+python-multipart
